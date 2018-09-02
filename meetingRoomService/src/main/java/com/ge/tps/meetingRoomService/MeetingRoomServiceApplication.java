@@ -16,6 +16,10 @@ public class MeetingRoomServiceApplication
     public static void main( String[] args )
     {
     	SpringApplication.run(MeetingRoomServiceApplication.class, args);
+
         System.out.println( "Hello World! working fine" );
+
+        System.out.println( "Hello World! wow awesome" );
+
     }
 }
